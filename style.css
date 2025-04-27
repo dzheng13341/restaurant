@@ -86,8 +86,8 @@ body {
   }
 
   .sidebar {
-    width: 150px;
-    padding: 20px;
+    width: 115px;
+    padding: 15px;
     background-color: rgba(204, 227, 248, 0.5);
     position: sticky;
     top: 80px;
@@ -114,6 +114,7 @@ body {
     text-decoration: none;
     color: #004080;
     font-weight: bold;
+    font-size: 15px
   }
   
   .sidebar a:hover {
