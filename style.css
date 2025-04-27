@@ -178,6 +178,13 @@ body {
     color: #555;
   }
 
+  @media (max-width: 768px) {
+    .location-page {
+      flex-direction: column;
+      gap: 20px;
+    }
+  }
+
   .location-page {
     display: flex;
     flex-direction: row;
